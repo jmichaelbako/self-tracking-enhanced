@@ -1,0 +1,8 @@
+C:\Projects\SelfTrackingEnhanced\SelfTrackingEnhanced\bin\Release\__TemplateIcon.ico
+C:\Projects\SelfTrackingEnhanced\SelfTrackingEnhanced\bin\Release\SelfTrackingEnhanced.vsix
+C:\Projects\SelfTrackingEnhanced\SelfTrackingEnhanced\bin\Release\extension.vsixmanifest
+C:\Projects\SelfTrackingEnhanced\SelfTrackingEnhanced\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\SelfTrackingEnhanced\SelfTrackingEnhanced\obj\Release\SelfTrackingEnhanced.dll
+C:\Projects\SelfTrackingEnhanced\SelfTrackingEnhanced\obj\Release\SelfTrackingEnhanced.pdb
+C:\Projects\SelfTrackingEnhanced\SelfTrackingEnhanced\obj\Release\extension.vsixmanifest
+C:\Projects\SelfTrackingEnhanced\SelfTrackingEnhanced\bin\Release\T\Code\EnhancedTemplate.zip

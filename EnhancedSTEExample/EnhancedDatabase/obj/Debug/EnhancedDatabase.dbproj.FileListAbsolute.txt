@@ -1,0 +1,8 @@
+C:\Projects\EnhancedSTEExample\EnhancedDatabase\sql\debug\EnhancedDatabase_Script.PreDeployment.sql
+C:\Projects\EnhancedSTEExample\EnhancedDatabase\sql\debug\EnhancedDatabase_Script.PostDeployment.sql
+C:\Projects\EnhancedSTEExample\EnhancedDatabase\sql\debug\EnhancedDatabase_Database.sqlsettings
+C:\Projects\EnhancedSTEExample\EnhancedDatabase\sql\debug\EnhancedDatabase_Database.sqldeployment
+C:\Projects\EnhancedSTEExample\EnhancedDatabase\sql\debug\EnhancedDatabase_Database.sqlcmdvars
+C:\Projects\EnhancedSTEExample\EnhancedDatabase\sql\debug\EnhancedDatabase.deploymanifest
+C:\Projects\EnhancedSTEExample\EnhancedDatabase\sql\debug\EnhancedDatabase.dbschema
+C:\Projects\EnhancedSTEExample\EnhancedDatabase\obj\Debug\EnhancedDatabase.dbschema

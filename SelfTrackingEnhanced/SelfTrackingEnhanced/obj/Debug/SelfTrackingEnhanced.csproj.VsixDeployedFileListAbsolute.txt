@@ -1,0 +1,5 @@
+C:\Users\joe.bako\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\\extension.vsixmanifest
+C:\Users\joe.bako\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\ItemTemplates\Code\\SelfTrackingEnhancedItemTemplates.zip
+C:\Users\Joe\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\\extension.vsixmanifest
+C:\Users\Joe\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\ItemTemplates\Code\\ADONETArtifactGenerator_SelfTrackingEnhancedItemTemplates.zip
+C:\Users\Joe\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\\__TemplateIcon.ico

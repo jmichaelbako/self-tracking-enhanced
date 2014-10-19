@@ -1,0 +1,10 @@
+C:\Users\joe.bako\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\\extension.vsixmanifest
+C:\Users\joe.bako\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\ItemTemplates\Code\\ADONETArtifactGenerator_SelfTrackingEnhancedItemTemplates.zip
+C:\Users\joe.bako\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\\__TemplateIcon.ico
+C:\Users\Joe\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\\extension.vsixmanifest
+C:\Users\Joe\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\ItemTemplates\Code\\ADONETArtifactGenerator_SelfTrackingEnhancedItemTemplates.zip
+C:\Users\Joe\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\\__TemplateIcon.ico
+C:\Users\Joe\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\ItemTemplates\Code\\ADONETArtifactGenerator_EnhancedTemplate.zip
+C:\Users\Joe\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\ItemTemplates\Code\\EnhancedSTE.zip
+C:\Users\Joe\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\T\Code\\Enh.zip
+C:\Users\Joe\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Joseph Bako\ADO.NET Enhanced Self-Tracking Entity Generator\1.0.0.0\T\Code\\EnhancedTemplate.zip

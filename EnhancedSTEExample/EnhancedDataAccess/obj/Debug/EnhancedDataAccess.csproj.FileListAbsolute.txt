@@ -1,0 +1,8 @@
+C:\Projects\EnhancedSTEExample\EnhancedDataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\EnhancedSTEExample\EnhancedDataAccess\bin\Debug\EnhancedDataAccess.dll.config
+C:\Projects\EnhancedSTEExample\EnhancedDataAccess\bin\Debug\EnhancedDataAccess.dll
+C:\Projects\EnhancedSTEExample\EnhancedDataAccess\bin\Debug\EnhancedDataAccess.pdb
+C:\Projects\EnhancedSTEExample\EnhancedDataAccess\bin\Debug\EnhancedEntities.dll
+C:\Projects\EnhancedSTEExample\EnhancedDataAccess\bin\Debug\EnhancedEntities.pdb
+C:\Projects\EnhancedSTEExample\EnhancedDataAccess\obj\Debug\EnhancedDataAccess.dll
+C:\Projects\EnhancedSTEExample\EnhancedDataAccess\obj\Debug\EnhancedDataAccess.pdb

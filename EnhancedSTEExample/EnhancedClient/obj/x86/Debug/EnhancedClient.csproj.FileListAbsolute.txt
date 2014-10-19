@@ -1,0 +1,16 @@
+C:\Projects\EnhancedSTEExample\EnhancedClient\bin\Debug\EnhancedClient.exe.config
+C:\Projects\EnhancedSTEExample\EnhancedClient\bin\Debug\EnhancedClient.exe
+C:\Projects\EnhancedSTEExample\EnhancedClient\bin\Debug\EnhancedClient.pdb
+C:\Projects\EnhancedSTEExample\EnhancedClient\bin\Debug\EnhancedEntities.dll
+C:\Projects\EnhancedSTEExample\EnhancedClient\bin\Debug\EnhancedEntities.pdb
+C:\Projects\EnhancedSTEExample\EnhancedClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\EnhancedSTEExample\EnhancedClient\obj\x86\Debug\MainWindow.baml
+C:\Projects\EnhancedSTEExample\EnhancedClient\obj\x86\Debug\MainWindow.g.cs
+C:\Projects\EnhancedSTEExample\EnhancedClient\obj\x86\Debug\App.g.cs
+C:\Projects\EnhancedSTEExample\EnhancedClient\obj\x86\Debug\EnhancedClient_MarkupCompile.cache
+C:\Projects\EnhancedSTEExample\EnhancedClient\obj\x86\Debug\EnhancedClient.g.resources
+C:\Projects\EnhancedSTEExample\EnhancedClient\obj\x86\Debug\EnhancedClient.Properties.Resources.resources
+C:\Projects\EnhancedSTEExample\EnhancedClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\EnhancedSTEExample\EnhancedClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\EnhancedSTEExample\EnhancedClient\obj\x86\Debug\EnhancedClient.exe
+C:\Projects\EnhancedSTEExample\EnhancedClient\obj\x86\Debug\EnhancedClient.pdb

@@ -1,0 +1,5 @@
+c:\projects\EnhancedSTEExample\EnhancedEntities\bin\Debug\EnhancedEntities.dll
+c:\projects\EnhancedSTEExample\EnhancedEntities\bin\Debug\EnhancedEntities.pdb
+c:\projects\EnhancedSTEExample\EnhancedEntities\obj\Debug\ResolveAssemblyReference.cache
+c:\projects\EnhancedSTEExample\EnhancedEntities\obj\Debug\EnhancedEntities.dll
+c:\projects\EnhancedSTEExample\EnhancedEntities\obj\Debug\EnhancedEntities.pdb

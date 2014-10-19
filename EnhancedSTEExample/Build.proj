@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<Import Project="$(MSBuildExtensionsPath)\ExtensionPack\MSBuild.ExtensionPack.tasks"/>
+
+	<PropertyGroup>
+		<DatabaseServer>localhost</DatabaseServer>
+		<DatabaseName>EnhancedSTE</DatabaseName>
+		<ConnectionString>Data Source=$(DatabaseServer);Initial Catalog=$(DatabaseName);Integrated Security=SSPI</ConnectionString>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<DatabaseScriptFiles Include="EnhancedDatabase\Scripts\*.sql" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectFiles Include="$(MSBuildStartupDirectory)\**\*.csproj" />
+	</ItemGroup>
+
+	<Target Name="BuildDatabase">
+		<MSBuild.ExtensionPack.Sql2008.Database MachineName="$(DatabaseServer)" TaskAction="Create" DatabaseItem="$(DatabaseName)" Collation="Latin1_General_CI_AI" Force="true"/>
+    <MSBuild.ExtensionPack.SqlServer.SqlExecute TaskAction="Execute" Files="@(DatabaseScriptFiles)" ConnectionString="$(ConnectionString)" />
+	</Target>
+</Project>

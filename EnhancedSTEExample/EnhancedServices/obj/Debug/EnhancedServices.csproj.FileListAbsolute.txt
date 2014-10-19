@@ -1,0 +1,9 @@
+C:\Projects\EnhancedSTEExample\EnhancedServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\EnhancedSTEExample\EnhancedServices\bin\EnhancedServices.dll
+C:\Projects\EnhancedSTEExample\EnhancedServices\bin\EnhancedServices.pdb
+C:\Projects\EnhancedSTEExample\EnhancedServices\bin\EnhancedDataAccess.dll
+C:\Projects\EnhancedSTEExample\EnhancedServices\bin\EnhancedEntities.dll
+C:\Projects\EnhancedSTEExample\EnhancedServices\bin\EnhancedDataAccess.pdb
+C:\Projects\EnhancedSTEExample\EnhancedServices\bin\EnhancedEntities.pdb
+C:\Projects\EnhancedSTEExample\EnhancedServices\obj\Debug\EnhancedServices.dll
+C:\Projects\EnhancedSTEExample\EnhancedServices\obj\Debug\EnhancedServices.pdb
